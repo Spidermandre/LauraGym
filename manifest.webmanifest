@@ -1,0 +1,21 @@
+{
+  "name": "Forza50",
+  "short_name": "Forza50",
+  "description": "Allenamento a corpo libero per gambe, glutei e addome, pensato per chi riparte da zero dopo i 50.",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#08080C",
+  "theme_color": "#08080C",
+  "lang": "it",
+  "dir": "ltr",
+  "icons": [
+    {
+      "src": "icon.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
